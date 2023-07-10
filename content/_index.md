@@ -57,51 +57,51 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Associate Professor
-          company: Northwestern Polytechnical University
-          company_url: ''
-          company_logo: org-gc
-          location: Xi'an, Shaanxi
-          date_start: '2020-11-18'
-          date_end: ''
-          # description: |2-
-          #     Responsibilities include:
+  # - block: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Associate Professor
+  #         company: Northwestern Polytechnical University
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: Xi'an, Shaanxi
+  #         date_start: '2020-11-18'
+  #         date_end: ''
+  #         # description: |2-
+  #         #     Responsibilities include:
 
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-        - title: Visiting Scholar
-          company: German Aerospace Center
-          company_url: ''
-          company_logo: org-x
-          location: Munich, Germany
-          date_start: '2018-10-01'
-          date_end: '2019-09-30'
-          description: |2-
-                Co-Supervisor: Prof. Mihai Datcu
-        - title: PhD
-          company: Chinese Academy of Sciences
-          company_url: ''
-          company_logo: org-x
-          location: Beijing
-          date_start: '2015-09-01'
-          date_end: '2020-09-01'
-          description: |2-
-                Ph.D Supervisor: Dr. Bin Lei and Dr. Zongxu Pan
-    design:
-      columns: '2'
+  #         #     * Analysing
+  #         #     * Modelling
+  #         #     * Deploying
+  #       - title: Visiting Scholar
+  #         company: German Aerospace Center
+  #         company_url: ''
+  #         company_logo: org-x
+  #         location: Munich, Germany
+  #         date_start: '2018-10-01'
+  #         date_end: '2019-09-30'
+  #         description: |2-
+  #               Co-Supervisor: Prof. Mihai Datcu
+  #       - title: PhD
+  #         company: Chinese Academy of Sciences
+  #         company_url: ''
+  #         company_logo: org-x
+  #         location: Beijing
+  #         date_start: '2015-09-01'
+  #         date_end: '2020-09-01'
+  #         description: |2-
+  #               Ph.D Supervisor: Dr. Bin Lei and Dr. Zongxu Pan
+  #   design:
+  #     columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
