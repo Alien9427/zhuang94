@@ -34,11 +34,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 直博
-      institution: 中国科学院
+    - course: 博士 中国科学院
+      # institution: 中国科学院
       year: 2020
-    - course: 本科
-      institution: 北京师范大学
+    - course: 本科 北京师范大学
+      # institution: 北京师范大学
       year: 2015
 
 # Social/Academic Networking
@@ -78,6 +78,6 @@ email: 'huangzhongling@nwpu.edu.cn'
 highlight_name: true
 ---
 
-黄钟泠，西北工业大学准聘副教授（首聘期），硕士生导师，隶属于韩军伟教授（IEEE Fellow）领衔的脑与人工智能实验室。2015年本科毕业于北京师范大学，研究生保送至中国科学院电子学研究所（现空天信息创新研究院），于2020年9月获工学博士学位。2018-2019年作为访问学生在德国宇航中心（DLR）交流，合作导师是Mihai Datcu教授（IEEE Fellow）。研究方向包括合成孔径雷达图像解译、可信/可解释机器学习、知识驱动的数据科学。
+黄钟泠，西北工业大学准聘副教授（首聘期），硕士生导师，隶属于韩军伟教授（IEEE Fellow）领衔的脑与人工智能实验室。2015年本科毕业于北京师范大学，研究生保送至中国科学院电子学研究所（现空天信息创新研究院），于2020年9月获工学博士学位。2018-2019年作为访问学生在德国宇航中心（DLR）交流，合作导师是Mihai Datcu教授（IEEE Fellow）。研究方向包括合成孔径雷达图像解译、可信/可解释机器学习、知识驱动的数据科学。欢迎有意报考研究生的同学邮件联系👏
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
