@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Northwestern Polytechnical University
-    url: https://www.stanford.edu/
+    url: https://teacher.nwpu.edu.cn/huangzhongling
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include trustworthy artificial intelligence for Synthetic Aperture Radar applications.
 
 # Interests to show in About widget
 interests:
@@ -33,11 +33,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD
+      institution: Chinese Academy of Sciences
       year: 2020
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc
+      institution: Beijing Normal University
       year: 2015
 
 # Social/Academic Networking
@@ -59,7 +59,7 @@ social:
     link: https://scholar.google.de/citations?user=oqkhjW0AAAAJ&hl=zh-CN
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/XAI4SAR/
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Zhongling-Huang
@@ -77,5 +77,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Zhongling Huang is currently an associate professor at School of Automation, Northwestern Polytechnical University. Her research interests include thustworthy artificial intelligence for Synthetic Aperture Radar applications, knowledge inspired deep learning methods, and remote sensing image interpretation.
+<!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
