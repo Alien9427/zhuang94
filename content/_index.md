@@ -74,7 +74,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Xi'an, Shaanxi
-          date_start: '2020-11'
+          date_start: '2020-11-18'
           date_end: ''
           # description: |2-
           #     Responsibilities include:
@@ -87,8 +87,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Munich, Germany
-          date_start: '2018-10'
-          date_end: '2019-09'
+          date_start: '2018-10-01'
+          date_end: '2019-09-30'
           description: |2-
                 Co-Supervisor: Prof. Mihai Datcu
         - title: PhD
@@ -96,8 +96,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Beijing
-          date_start: '2015-09'
-          date_end: '2020-09'
+          date_start: '2015-09-01'
+          date_end: '2020-09-01'
           description: |2-
                 Ph.D Supervisor: Dr. Bin Lei and Dr. Zongxu Pan
     design:
