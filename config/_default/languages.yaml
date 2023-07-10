@@ -14,9 +14,9 @@ zh:
   contentDir: content/zh
   title: 黄钟泠
   params:
-    description: Site description in Chinese...
-  menu:
-    main:
-      - name: 传
-        url: '#about'
-        weight: 1
+    description: 中文简介
+  # menu:
+  #   main:
+  #     - name: 传
+  #       url: '#about'
+  #       weight: 1

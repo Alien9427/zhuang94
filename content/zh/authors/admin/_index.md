@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhongling Huang
+title: 黄钟泠
 
 # Full name (for SEO)
 first_name: Zhongling
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor
+role: 准聘副教授
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northwestern Polytechnical University
+  - name: 西北工业大学
     url: https://teacher.nwpu.edu.cn/huangzhongling
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,19 +26,19 @@ bio: My research interests include trustworthy artificial intelligence for Synth
 
 # Interests to show in About widget
 interests:
-  - Synthetic Aperture Radar
-  - Trustworthy Machine Learning
-  - Knowledge Guided Data Science
-  - Remote Sensing Image Understanding
+  - SAR图像理解
+  - 可信机器学习
+  - 知识驱动的数据科学
+  - 遥感图像解译
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD
-      institution: Chinese Academy of Sciences
+    - course: 直博
+      institution: 中国科学院
       year: 2020
-    - course: BSc
-      institution: Beijing Normal University
+    - course: 本科
+      institution: 北京师范大学
       year: 2015
 
 # Social/Academic Networking
@@ -78,6 +78,6 @@ email: 'huangzhongling@nwpu.edu.cn'
 highlight_name: true
 ---
 
-Dr. Zhongling Huang is currently an associate professor at the BRain and Artificial INtelligence Laboratory (BRAIN LAB), School of Automation, Northwestern Polytechnical University, Xi’an, China. She received the B.Sc. degree in electronic information science and technology from Beijing Normal University, Beijing, in 2015, and the Ph.D. degree from University of Chinese Academy of Sciences (UCAS), Beijing, in 2020, supervised by Dr. Bin Lei. She was a visiting scholar with the German Aerospace Center (DLR), Wessling, Germany, from 2018 to 2019, co-supervised by Prof. Mihai Datcu (IEEE Fellow). Her research interests include thustworthy artificial intelligence for Synthetic Aperture Radar applications, knowledge inspired deep learning methods, and remote sensing image interpretation.
+黄钟泠，西北工业大学准聘副教授（首聘期），硕士生导师，隶属于韩军伟教授（IEEE Fellow）领衔的脑与人工智能实验室。2015年本科毕业于北京师范大学，研究生保送至中国科学院电子学研究所（现空天信息创新研究院），于2020年9月获工学博士学位。2018-2019年作为访问学生在德国宇航中心（DLR）交流，合作导师是Mihai Datcu教授（IEEE Fellow）。研究方向包括合成孔径雷达图像解译、可信/可解释机器学习、知识驱动的数据科学。
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
 {style="text-align: justify;"}
