@@ -77,7 +77,11 @@ email: 'huangzhongling@nwpu.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+**About Me**
+I am currently an associate professor at the BRain and Artificial INtelligence Laboratory [BRAIN LAB](https://nwpu-brainlab.gitee.io/index_en.html), School of Automation, Northwestern Polytechnical University, Xi’an, China. I received the B.Sc. degree from Beijing Normal University in 2015, and the Ph.D. degree from University of Chinese Academy of Sciences (UCAS) in 2020, supervised by Dr. Bin Lei. From 2018 to 2019, I served as a visiting scholar in German Aerospace Center (DLR), co-supervised by Prof. Mihai Datcu (IEEE Fellow).
 
-Dr. Zhongling Huang is currently an associate professor at the BRain and Artificial INtelligence Laboratory (BRAIN LAB), School of Automation, Northwestern Polytechnical University, Xi’an, China. She received the B.Sc. degree in electronic information science and technology from Beijing Normal University, Beijing, in 2015, and the Ph.D. degree from University of Chinese Academy of Sciences (UCAS), Beijing, in 2020, supervised by Dr. Bin Lei. She was a visiting scholar with the German Aerospace Center (DLR), Wessling, Germany, from 2018 to 2019, co-supervised by Prof. Mihai Datcu (IEEE Fellow). Her research interests include thustworthy artificial intelligence for Synthetic Aperture Radar applications, knowledge inspired deep learning methods, and remote sensing image interpretation.
-<!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+**Open Source and Open Data**
+
+* The source code with data of our work is available at [XAI4SAR](https://github.com/XAI4SAR/).
+
 {style="text-align: justify;"}
