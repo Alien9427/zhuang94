@@ -77,7 +77,7 @@ email: 'huangzhongling@nwpu.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-**About Me**
+
 I am currently an associate professor at the BRain and Artificial INtelligence Laboratory [BRAIN LAB](https://nwpu-brainlab.gitee.io/index_en.html), School of Automation, Northwestern Polytechnical University, Xi’an, China. I received the B.Sc. degree from Beijing Normal University in 2015, and the Ph.D. degree from University of Chinese Academy of Sciences (UCAS) in 2020, supervised by Dr. Bin Lei. From 2018 to 2019, I served as a visiting scholar in German Aerospace Center (DLR), co-supervised by Prof. Mihai Datcu (IEEE Fellow).
 
 **Open Source and Open Data**
